@@ -4,3 +4,6 @@ Gitの練習をしていきます。
 ・git commit
 ・git rm
 ・git status
+・git log
+  {"j"で下に移動、"k"で上に移動、"q"で終了｝、｛--onelineで一行表示｝、｛-n[number]で入力したnumberぶんの履歴を表示},{-pは何のファイルが変更されたかを確認できる。｝
+・git diff
